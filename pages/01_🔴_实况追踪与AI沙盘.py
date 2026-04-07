@@ -11,9 +11,6 @@ from streamlit_image_coordinates import streamlit_image_coordinates
 
 st.set_page_config(page_title="现场直播追踪与实时AI教练", page_icon="🏸", layout="wide")
 
-
-
-
 # ==========================================
 # 0. 数据库与文件配置
 # ==========================================
@@ -25,8 +22,8 @@ STANDARD_COLUMNS = [
     "match_id", "set_id", "rally",      
     "player_A", "player_B",             
     "score_A", "score_B",               
-    "winner", "type",                             
-    "pressure_score", "smasher",                          
+    "winner", "type",                                             
+    "pressure_score", "smasher",                                          
     "hit_x", "hit_y", "landing_x", "landing_y"            
 ]
 
@@ -134,11 +131,11 @@ def create_court_with_trajectory(strokes, width=320):
         a_coords = [(s[0], s[1]) for s in strokes if s[2] == "A"]
         b_coords = [(s[0], s[1]) for s in strokes if s[2] == "B"]
 
-# 2. 画A轨迹
+        # 2. 画A轨迹
         if len(a_coords) > 1:
            draw.line(a_coords, fill="#FFA07A", width=3)
 
-# 3. 画B轨迹
+        # 3. 画B轨迹
         if len(b_coords) > 1:
            draw.line(b_coords, fill="#87CEFA", width=3)
 
@@ -275,7 +272,10 @@ with col_live:
 
             court_width = 180 # 进一步稍微缩小一点保证不会错位
             court_img = create_court_with_trajectory(st.session_state.live_strokes, width=court_width)
-            click_value = streamlit_image_coordinates(court_img, key="live_court")
+            
+            # --- 关键修改在这里，加上了 use_column_width=True ---
+            click_value = streamlit_image_coordinates(court_img, key="live_court", use_column_width=True)
+            # --------------------------------------------------
             
             if click_value is not None and click_value != st.session_state.live_last_click:
                 st.session_state.live_strokes.append((click_value["x"], click_value["y"], player_label))
