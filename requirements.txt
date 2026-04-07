@@ -5,3 +5,8 @@ joblib
 scikit-learn
 plotly
 openpyxl
+matplotlib
+streamlit-image-coordinates
+graphviz
+plotly
+seaborn
