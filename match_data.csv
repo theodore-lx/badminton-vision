@@ -1,0 +1,501 @@
+match_id,set_id,rally,player_A,player_B,score_A,score_B,winner,type,pressure_score,smasher,hit_x,hit_y,landing_x,landing_y
+Mock_Match_1,1,1,Kunlavut,Antonsen,15,16,B,平抽,31,None,0,0,0,0
+Mock_Match_1,1,2,Momota,Antonsen,16,6,A,网前球,41,None,0,0,0,0
+Mock_Match_1,1,3,Christie,Kodai,4,7,B,吊球,53,None,0,0,0,0
+Mock_Match_1,1,4,Shi Yuqi,Antonsen,0,13,A,杀球,54,A,0,0,0,0
+Mock_Match_1,1,5,Lee Zii Jia,Kodai,0,17,B,平抽,83,None,0,0,0,0
+Mock_Match_1,1,6,Kodai,Axelsen,8,21,A,杀球,85,A,0,0,0,0
+Mock_Match_1,1,7,Kodai,Lee Zii Jia,12,15,A,失误,74,None,0,0,0,0
+Mock_Match_1,1,8,Lee Zii Jia,Shi Yuqi,6,11,B,失误,79,None,0,0,0,0
+Mock_Match_1,1,9,Momota,Lee Zii Jia,15,13,A,杀球,88,None,0,0,0,0
+Mock_Match_1,1,10,Kunlavut,Ginting,13,1,A,网前球,45,None,0,0,0,0
+Mock_Match_1,1,11,Ginting,Shi Yuqi,20,11,B,网前球,89,None,0,0,0,0
+Mock_Match_1,1,12,Shi Yuqi,Antonsen,17,15,A,网前球,40,None,0,0,0,0
+Mock_Match_1,1,13,Momota,Lakshya Sen,9,14,B,网前球,34,None,0,0,0,0
+Mock_Match_1,1,14,Kodai,Antonsen,3,11,B,平抽,82,None,0,0,0,0
+Mock_Match_1,1,15,Christie,Shi Yuqi,0,13,B,杀球,92,B,0,0,0,0
+Mock_Match_1,1,16,Ginting,Axelsen,19,13,A,失误,37,None,0,0,0,0
+Mock_Match_1,1,17,Shi Yuqi,Lakshya Sen,14,2,B,失误,76,None,0,0,0,0
+Mock_Match_1,1,18,Kunlavut,Lee Zii Jia,7,9,B,失误,92,None,0,0,0,0
+Mock_Match_1,1,19,Lakshya Sen,Momota,21,3,B,网前球,64,None,0,0,0,0
+Mock_Match_1,1,20,Kunlavut,Antonsen,11,5,B,失误,66,None,0,0,0,0
+Mock_Match_1,1,21,Kodai,Shi Yuqi,11,11,A,吊球,49,None,0,0,0,0
+Mock_Match_1,1,22,Axelsen,Shi Yuqi,9,19,B,失误,83,None,0,0,0,0
+Mock_Match_1,1,23,Kunlavut,Momota,8,18,A,挑球,42,B,0,0,0,0
+Mock_Match_1,1,24,Momota,Axelsen,21,18,B,杀球,71,B,0,0,0,0
+Mock_Match_1,1,25,Ginting,Christie,6,2,A,失误,38,None,0,0,0,0
+Mock_Match_1,1,26,Lakshya Sen,Kodai,4,19,A,杀球,38,None,0,0,0,0
+Mock_Match_1,1,27,Ginting,Axelsen,7,19,B,网前球,44,None,0,0,0,0
+Mock_Match_1,1,28,Lakshya Sen,Lee Zii Jia,17,9,B,网前球,88,None,0,0,0,0
+Mock_Match_1,1,29,Lakshya Sen,Christie,10,16,B,失误,60,None,0,0,0,0
+Mock_Match_1,1,30,Lee Zii Jia,Momota,8,20,A,平抽,37,None,0,0,0,0
+Mock_Match_1,1,31,Lee Zii Jia,Kodai,13,6,B,平抽,94,None,0,0,0,0
+Mock_Match_1,1,32,Antonsen,Axelsen,15,11,B,平抽,38,None,0,0,0,0
+Mock_Match_1,1,33,Lakshya Sen,Antonsen,14,2,B,失误,93,None,0,0,0,0
+Mock_Match_1,1,34,Kodai,Christie,9,11,B,平抽,44,None,0,0,0,0
+Mock_Match_1,1,35,Kodai,Momota,15,7,B,网前球,71,None,0,0,0,0
+Mock_Match_1,1,36,Antonsen,Axelsen,9,4,B,平抽,57,None,0,0,0,0
+Mock_Match_1,1,37,Axelsen,Lee Zii Jia,6,13,B,杀球,72,B,0,0,0,0
+Mock_Match_1,1,38,Ginting,Kunlavut,3,10,B,失误,57,None,0,0,0,0
+Mock_Match_1,1,39,Christie,Ginting,18,11,A,失误,44,None,0,0,0,0
+Mock_Match_1,1,40,Ginting,Momota,2,14,B,挑球,39,A,0,0,0,0
+Mock_Match_2,1,1,Lakshya Sen,Kodai,6,17,B,网前球,42,None,0,0,0,0
+Mock_Match_2,1,2,Kunlavut,Christie,21,13,A,挑球,34,B,0,0,0,0
+Mock_Match_2,1,3,Christie,Kunlavut,21,4,B,失误,59,None,0,0,0,0
+Mock_Match_2,1,4,Antonsen,Shi Yuqi,17,13,B,杀球,35,B,0,0,0,0
+Mock_Match_2,1,5,Momota,Antonsen,10,17,B,杀球,55,None,0,0,0,0
+Mock_Match_2,1,6,Axelsen,Lee Zii Jia,12,7,A,杀球,87,A,0,0,0,0
+Mock_Match_2,1,7,Lakshya Sen,Antonsen,13,10,A,杀球,66,None,0,0,0,0
+Mock_Match_2,1,8,Kunlavut,Antonsen,16,3,A,网前球,51,None,0,0,0,0
+Mock_Match_2,1,9,Kodai,Shi Yuqi,12,16,B,失误,70,None,0,0,0,0
+Mock_Match_2,1,10,Christie,Lee Zii Jia,4,7,B,杀球,61,B,0,0,0,0
+Mock_Match_2,1,11,Christie,Kodai,9,4,A,平抽,91,None,0,0,0,0
+Mock_Match_2,1,12,Lee Zii Jia,Shi Yuqi,4,18,A,网前球,36,None,0,0,0,0
+Mock_Match_2,1,13,Momota,Antonsen,2,9,B,失误,71,None,0,0,0,0
+Mock_Match_2,1,14,Christie,Antonsen,13,5,A,失误,42,None,0,0,0,0
+Mock_Match_2,1,15,Kodai,Axelsen,2,15,B,杀球,79,B,0,0,0,0
+Mock_Match_2,1,16,Ginting,Momota,11,3,A,失误,89,None,0,0,0,0
+Mock_Match_2,1,17,Axelsen,Christie,9,8,A,杀球,64,A,0,0,0,0
+Mock_Match_2,1,18,Ginting,Lakshya Sen,18,7,A,吊球,62,None,0,0,0,0
+Mock_Match_2,1,19,Momota,Kodai,21,11,A,网前球,64,None,0,0,0,0
+Mock_Match_2,1,20,Kodai,Momota,18,20,A,吊球,47,None,0,0,0,0
+Mock_Match_2,1,21,Shi Yuqi,Kunlavut,14,6,B,挑球,58,A,0,0,0,0
+Mock_Match_2,1,22,Christie,Kunlavut,21,14,A,吊球,83,None,0,0,0,0
+Mock_Match_2,1,23,Kodai,Axelsen,9,2,A,网前球,32,None,0,0,0,0
+Mock_Match_2,1,24,Axelsen,Kunlavut,9,4,B,网前球,37,None,0,0,0,0
+Mock_Match_2,1,25,Momota,Kodai,20,6,A,挑球,58,B,0,0,0,0
+Mock_Match_2,1,26,Shi Yuqi,Momota,9,12,A,吊球,34,None,0,0,0,0
+Mock_Match_2,1,27,Kodai,Kunlavut,15,1,A,网前球,82,None,0,0,0,0
+Mock_Match_2,1,28,Axelsen,Lee Zii Jia,2,2,A,网前球,50,None,0,0,0,0
+Mock_Match_2,1,29,Antonsen,Kunlavut,13,17,A,吊球,62,None,0,0,0,0
+Mock_Match_2,1,30,Lakshya Sen,Kunlavut,20,10,A,网前球,52,None,0,0,0,0
+Mock_Match_2,1,31,Kodai,Shi Yuqi,6,15,A,平抽,58,None,0,0,0,0
+Mock_Match_2,1,32,Kunlavut,Lee Zii Jia,8,0,B,杀球,63,B,0,0,0,0
+Mock_Match_2,1,33,Ginting,Christie,13,12,B,杀球,93,None,0,0,0,0
+Mock_Match_2,1,34,Antonsen,Momota,17,18,A,网前球,83,None,0,0,0,0
+Mock_Match_2,1,35,Kodai,Kunlavut,19,8,B,挑球,31,A,0,0,0,0
+Mock_Match_2,1,36,Lakshya Sen,Christie,15,12,B,失误,43,None,0,0,0,0
+Mock_Match_2,1,37,Kodai,Axelsen,11,12,B,杀球,50,B,0,0,0,0
+Mock_Match_2,1,38,Shi Yuqi,Momota,1,19,B,杀球,57,None,0,0,0,0
+Mock_Match_2,1,39,Christie,Lee Zii Jia,16,18,A,失误,90,None,0,0,0,0
+Mock_Match_2,1,40,Momota,Antonsen,18,6,A,网前球,78,None,0,0,0,0
+Mock_Match_3,1,1,Lee Zii Jia,Kodai,15,7,A,杀球,93,A,0,0,0,0
+Mock_Match_3,1,2,Kunlavut,Antonsen,20,16,A,网前球,87,None,0,0,0,0
+Mock_Match_3,1,3,Shi Yuqi,Antonsen,4,19,A,平抽,78,None,0,0,0,0
+Mock_Match_3,1,4,Lee Zii Jia,Ginting,13,0,B,失误,60,None,0,0,0,0
+Mock_Match_3,1,5,Lee Zii Jia,Momota,19,6,B,杀球,67,None,0,0,0,0
+Mock_Match_3,1,6,Christie,Shi Yuqi,13,10,B,吊球,89,None,0,0,0,0
+Mock_Match_3,1,7,Kodai,Lakshya Sen,17,5,B,挑球,59,A,0,0,0,0
+Mock_Match_3,1,8,Christie,Shi Yuqi,21,0,A,失误,94,None,0,0,0,0
+Mock_Match_3,1,9,Kunlavut,Kodai,8,20,A,挑球,63,B,0,0,0,0
+Mock_Match_3,1,10,Momota,Kunlavut,15,0,B,失误,76,None,0,0,0,0
+Mock_Match_3,1,11,Axelsen,Antonsen,6,18,B,杀球,86,None,0,0,0,0
+Mock_Match_3,1,12,Ginting,Lakshya Sen,11,5,A,失误,71,None,0,0,0,0
+Mock_Match_3,1,13,Kodai,Kunlavut,21,8,B,挑球,61,A,0,0,0,0
+Mock_Match_3,1,14,Axelsen,Kodai,17,21,A,杀球,81,A,0,0,0,0
+Mock_Match_3,1,15,Antonsen,Ginting,18,13,A,失误,79,None,0,0,0,0
+Mock_Match_3,1,16,Kunlavut,Christie,5,15,A,杀球,91,None,0,0,0,0
+Mock_Match_3,1,17,Momota,Kunlavut,11,12,B,挑球,82,A,0,0,0,0
+Mock_Match_3,1,18,Momota,Kunlavut,4,20,A,杀球,37,None,0,0,0,0
+Mock_Match_3,1,19,Lee Zii Jia,Momota,5,21,A,杀球,71,A,0,0,0,0
+Mock_Match_3,1,20,Momota,Antonsen,13,0,B,杀球,54,None,0,0,0,0
+Mock_Match_3,1,21,Lee Zii Jia,Christie,5,1,A,杀球,88,A,0,0,0,0
+Mock_Match_3,1,22,Kodai,Lee Zii Jia,0,18,B,杀球,72,B,0,0,0,0
+Mock_Match_3,1,23,Antonsen,Momota,1,19,A,失误,55,None,0,0,0,0
+Mock_Match_3,1,24,Axelsen,Lakshya Sen,10,7,A,杀球,91,A,0,0,0,0
+Mock_Match_3,1,25,Antonsen,Christie,12,5,A,吊球,59,None,0,0,0,0
+Mock_Match_3,1,26,Axelsen,Lakshya Sen,19,13,B,挑球,53,A,0,0,0,0
+Mock_Match_3,1,27,Ginting,Momota,19,17,A,网前球,60,None,0,0,0,0
+Mock_Match_3,1,28,Ginting,Lee Zii Jia,6,13,B,杀球,41,B,0,0,0,0
+Mock_Match_3,1,29,Kunlavut,Momota,17,0,B,挑球,43,A,0,0,0,0
+Mock_Match_3,1,30,Momota,Lee Zii Jia,14,0,B,失误,55,None,0,0,0,0
+Mock_Match_3,1,31,Christie,Antonsen,2,17,B,吊球,71,None,0,0,0,0
+Mock_Match_3,1,32,Momota,Ginting,18,7,B,失误,68,None,0,0,0,0
+Mock_Match_3,1,33,Ginting,Lee Zii Jia,8,2,B,失误,85,None,0,0,0,0
+Mock_Match_3,1,34,Momota,Axelsen,6,18,A,失误,43,None,0,0,0,0
+Mock_Match_3,1,35,Momota,Lee Zii Jia,10,13,B,杀球,71,B,0,0,0,0
+Mock_Match_3,1,36,Kunlavut,Lakshya Sen,11,16,B,挑球,49,A,0,0,0,0
+Mock_Match_3,1,37,Axelsen,Lee Zii Jia,3,17,B,网前球,85,None,0,0,0,0
+Mock_Match_3,1,38,Christie,Kunlavut,6,19,B,网前球,38,None,0,0,0,0
+Mock_Match_3,1,39,Christie,Kunlavut,18,18,B,失误,59,None,0,0,0,0
+Mock_Match_3,1,40,Lee Zii Jia,Shi Yuqi,4,18,A,平抽,63,None,0,0,0,0
+Mock_Match_4,1,1,Ginting,Christie,19,3,B,失误,57,None,0,0,0,0
+Mock_Match_4,1,2,Antonsen,Ginting,6,9,A,平抽,53,None,0,0,0,0
+Mock_Match_4,1,3,Christie,Ginting,2,7,B,吊球,83,None,0,0,0,0
+Mock_Match_4,1,4,Shi Yuqi,Kunlavut,11,19,A,杀球,68,A,0,0,0,0
+Mock_Match_4,1,5,Shi Yuqi,Lakshya Sen,0,2,B,挑球,66,A,0,0,0,0
+Mock_Match_4,1,6,Antonsen,Axelsen,16,4,A,杀球,67,None,0,0,0,0
+Mock_Match_4,1,7,Axelsen,Christie,5,10,A,杀球,74,A,0,0,0,0
+Mock_Match_4,1,8,Kodai,Shi Yuqi,4,14,B,网前球,84,None,0,0,0,0
+Mock_Match_4,1,9,Lakshya Sen,Ginting,21,18,B,吊球,42,None,0,0,0,0
+Mock_Match_4,1,10,Christie,Lakshya Sen,12,16,B,杀球,33,None,0,0,0,0
+Mock_Match_4,1,11,Shi Yuqi,Kunlavut,3,0,A,吊球,92,None,0,0,0,0
+Mock_Match_4,1,12,Shi Yuqi,Kunlavut,5,12,B,挑球,57,A,0,0,0,0
+Mock_Match_4,1,13,Ginting,Momota,13,3,A,吊球,88,None,0,0,0,0
+Mock_Match_4,1,14,Kodai,Axelsen,11,7,B,网前球,36,None,0,0,0,0
+Mock_Match_4,1,15,Christie,Momota,1,18,B,失误,94,None,0,0,0,0
+Mock_Match_4,1,16,Axelsen,Antonsen,9,7,B,失误,79,None,0,0,0,0
+Mock_Match_4,1,17,Ginting,Axelsen,8,10,B,失误,92,None,0,0,0,0
+Mock_Match_4,1,18,Momota,Lee Zii Jia,7,7,B,杀球,72,B,0,0,0,0
+Mock_Match_4,1,19,Axelsen,Lakshya Sen,11,12,A,杀球,34,A,0,0,0,0
+Mock_Match_4,1,20,Momota,Antonsen,9,10,B,网前球,36,None,0,0,0,0
+Mock_Match_4,1,21,Kodai,Ginting,5,17,B,网前球,37,None,0,0,0,0
+Mock_Match_4,1,22,Momota,Axelsen,1,6,A,失误,48,None,0,0,0,0
+Mock_Match_4,1,23,Ginting,Axelsen,6,0,B,杀球,87,B,0,0,0,0
+Mock_Match_4,1,24,Christie,Ginting,7,9,B,失误,40,None,0,0,0,0
+Mock_Match_4,1,25,Lakshya Sen,Lee Zii Jia,7,7,B,杀球,83,B,0,0,0,0
+Mock_Match_4,1,26,Axelsen,Kodai,21,6,A,杀球,65,A,0,0,0,0
+Mock_Match_4,1,27,Lee Zii Jia,Christie,15,13,A,平抽,39,None,0,0,0,0
+Mock_Match_4,1,28,Kodai,Momota,13,10,A,杀球,51,A,0,0,0,0
+Mock_Match_4,1,29,Lee Zii Jia,Lakshya Sen,8,20,A,网前球,38,None,0,0,0,0
+Mock_Match_4,1,30,Shi Yuqi,Kodai,10,4,B,杀球,67,B,0,0,0,0
+Mock_Match_4,1,31,Axelsen,Lee Zii Jia,4,6,B,失误,55,None,0,0,0,0
+Mock_Match_4,1,32,Lee Zii Jia,Ginting,15,19,B,网前球,86,None,0,0,0,0
+Mock_Match_4,1,33,Axelsen,Kunlavut,13,11,A,杀球,73,A,0,0,0,0
+Mock_Match_4,1,34,Kodai,Axelsen,11,13,B,平抽,44,None,0,0,0,0
+Mock_Match_4,1,35,Momota,Shi Yuqi,21,13,A,失误,79,None,0,0,0,0
+Mock_Match_4,1,36,Axelsen,Shi Yuqi,4,6,B,失误,62,None,0,0,0,0
+Mock_Match_4,1,37,Kodai,Lakshya Sen,2,5,A,吊球,44,None,0,0,0,0
+Mock_Match_4,1,38,Kunlavut,Christie,14,14,B,平抽,69,None,0,0,0,0
+Mock_Match_4,1,39,Axelsen,Lee Zii Jia,12,17,B,杀球,52,B,0,0,0,0
+Mock_Match_4,1,40,Kunlavut,Lakshya Sen,14,3,A,挑球,87,B,0,0,0,0
+Mock_Match_5,1,1,Kunlavut,Kodai,9,10,A,挑球,85,B,0,0,0,0
+Mock_Match_5,1,2,Shi Yuqi,Lee Zii Jia,15,19,B,失误,64,None,0,0,0,0
+Mock_Match_5,1,3,Antonsen,Ginting,16,0,A,吊球,72,None,0,0,0,0
+Mock_Match_5,1,4,Lakshya Sen,Momota,11,3,B,挑球,80,A,0,0,0,0
+Mock_Match_5,1,5,Ginting,Christie,6,12,A,平抽,54,None,0,0,0,0
+Mock_Match_5,1,6,Christie,Lakshya Sen,7,16,A,平抽,76,None,0,0,0,0
+Mock_Match_5,1,7,Ginting,Kunlavut,4,16,A,失误,74,None,0,0,0,0
+Mock_Match_5,1,8,Kodai,Ginting,3,20,B,网前球,64,None,0,0,0,0
+Mock_Match_5,1,9,Lee Zii Jia,Shi Yuqi,20,8,A,杀球,35,A,0,0,0,0
+Mock_Match_5,1,10,Antonsen,Shi Yuqi,14,9,A,平抽,71,None,0,0,0,0
+Mock_Match_5,1,11,Axelsen,Momota,12,7,A,网前球,88,None,0,0,0,0
+Mock_Match_5,1,12,Kunlavut,Christie,15,7,A,网前球,63,None,0,0,0,0
+Mock_Match_5,1,13,Shi Yuqi,Kodai,15,13,A,网前球,50,None,0,0,0,0
+Mock_Match_5,1,14,Shi Yuqi,Lee Zii Jia,20,5,A,网前球,81,None,0,0,0,0
+Mock_Match_5,1,15,Ginting,Kunlavut,19,7,A,吊球,51,None,0,0,0,0
+Mock_Match_5,1,16,Christie,Lee Zii Jia,3,0,A,吊球,88,None,0,0,0,0
+Mock_Match_5,1,17,Ginting,Antonsen,10,16,A,失误,54,None,0,0,0,0
+Mock_Match_5,1,18,Ginting,Lee Zii Jia,11,9,A,吊球,65,None,0,0,0,0
+Mock_Match_5,1,19,Kunlavut,Ginting,14,9,A,挑球,48,B,0,0,0,0
+Mock_Match_5,1,20,Lakshya Sen,Lee Zii Jia,17,17,A,失误,65,None,0,0,0,0
+Mock_Match_5,1,21,Kunlavut,Christie,21,19,A,网前球,65,None,0,0,0,0
+Mock_Match_5,1,22,Antonsen,Kunlavut,10,12,B,杀球,80,None,0,0,0,0
+Mock_Match_5,1,23,Kodai,Shi Yuqi,21,15,A,平抽,67,None,0,0,0,0
+Mock_Match_5,1,24,Kunlavut,Kodai,1,0,B,杀球,74,B,0,0,0,0
+Mock_Match_5,1,25,Axelsen,Christie,3,2,A,平抽,49,None,0,0,0,0
+Mock_Match_5,1,26,Ginting,Christie,10,18,B,平抽,79,None,0,0,0,0
+Mock_Match_5,1,27,Axelsen,Lakshya Sen,18,13,A,平抽,86,None,0,0,0,0
+Mock_Match_5,1,28,Shi Yuqi,Momota,20,11,B,挑球,85,A,0,0,0,0
+Mock_Match_5,1,29,Lee Zii Jia,Ginting,6,12,B,失误,38,None,0,0,0,0
+Mock_Match_5,1,30,Axelsen,Lakshya Sen,9,9,B,失误,86,None,0,0,0,0
+Mock_Match_5,1,31,Lee Zii Jia,Kodai,4,11,A,失误,48,None,0,0,0,0
+Mock_Match_5,1,32,Shi Yuqi,Kunlavut,8,19,A,失误,49,None,0,0,0,0
+Mock_Match_5,1,33,Shi Yuqi,Axelsen,19,5,B,杀球,64,B,0,0,0,0
+Mock_Match_5,1,34,Kunlavut,Momota,11,11,A,失误,53,None,0,0,0,0
+Mock_Match_5,1,35,Christie,Shi Yuqi,11,16,A,杀球,80,None,0,0,0,0
+Mock_Match_5,1,36,Lee Zii Jia,Shi Yuqi,18,17,B,杀球,32,B,0,0,0,0
+Mock_Match_5,1,37,Lakshya Sen,Christie,12,11,A,网前球,50,None,0,0,0,0
+Mock_Match_5,1,38,Kodai,Axelsen,15,3,A,失误,41,None,0,0,0,0
+Mock_Match_5,1,39,Axelsen,Ginting,16,17,A,杀球,81,A,0,0,0,0
+Mock_Match_5,1,40,Lakshya Sen,Momota,11,9,A,挑球,66,B,0,0,0,0
+Mock_Match_6,1,1,Lee Zii Jia,Kodai,5,1,A,网前球,43,None,0,0,0,0
+Mock_Match_6,1,2,Lakshya Sen,Kunlavut,19,6,A,挑球,93,B,0,0,0,0
+Mock_Match_6,1,3,Kodai,Kunlavut,11,2,B,网前球,42,None,0,0,0,0
+Mock_Match_6,1,4,Christie,Kodai,21,2,B,杀球,77,B,0,0,0,0
+Mock_Match_6,1,5,Momota,Christie,11,2,A,网前球,66,None,0,0,0,0
+Mock_Match_6,1,6,Christie,Momota,8,8,B,挑球,63,A,0,0,0,0
+Mock_Match_6,1,7,Lakshya Sen,Lee Zii Jia,4,7,A,网前球,67,None,0,0,0,0
+Mock_Match_6,1,8,Axelsen,Antonsen,19,12,A,失误,76,None,0,0,0,0
+Mock_Match_6,1,9,Ginting,Shi Yuqi,0,11,B,平抽,69,None,0,0,0,0
+Mock_Match_6,1,10,Antonsen,Christie,6,21,A,吊球,86,None,0,0,0,0
+Mock_Match_6,1,11,Antonsen,Kunlavut,0,14,B,杀球,38,None,0,0,0,0
+Mock_Match_6,1,12,Ginting,Lee Zii Jia,15,13,A,网前球,57,None,0,0,0,0
+Mock_Match_6,1,13,Ginting,Christie,7,11,B,杀球,53,None,0,0,0,0
+Mock_Match_6,1,14,Kunlavut,Antonsen,12,20,B,失误,66,None,0,0,0,0
+Mock_Match_6,1,15,Momota,Ginting,11,9,A,挑球,89,B,0,0,0,0
+Mock_Match_6,1,16,Antonsen,Axelsen,7,4,B,杀球,68,B,0,0,0,0
+Mock_Match_6,1,17,Momota,Antonsen,14,10,A,失误,32,None,0,0,0,0
+Mock_Match_6,1,18,Ginting,Kunlavut,9,19,A,吊球,68,None,0,0,0,0
+Mock_Match_6,1,19,Momota,Christie,20,20,A,挑球,67,B,0,0,0,0
+Mock_Match_6,1,20,Ginting,Momota,6,15,A,杀球,84,A,0,0,0,0
+Mock_Match_6,1,21,Ginting,Shi Yuqi,11,19,B,网前球,40,None,0,0,0,0
+Mock_Match_6,1,22,Christie,Kunlavut,20,18,B,失误,56,None,0,0,0,0
+Mock_Match_6,1,23,Christie,Momota,10,5,A,杀球,75,None,0,0,0,0
+Mock_Match_6,1,24,Momota,Christie,2,1,A,挑球,67,B,0,0,0,0
+Mock_Match_6,1,25,Ginting,Momota,19,8,A,网前球,77,None,0,0,0,0
+Mock_Match_6,1,26,Ginting,Kunlavut,12,9,B,挑球,65,A,0,0,0,0
+Mock_Match_6,1,27,Lee Zii Jia,Antonsen,2,8,B,平抽,44,None,0,0,0,0
+Mock_Match_6,1,28,Christie,Lakshya Sen,8,0,A,失误,48,None,0,0,0,0
+Mock_Match_6,1,29,Axelsen,Momota,19,17,A,杀球,74,A,0,0,0,0
+Mock_Match_6,1,30,Momota,Axelsen,5,12,B,网前球,43,None,0,0,0,0
+Mock_Match_6,1,31,Axelsen,Lakshya Sen,1,13,B,网前球,91,None,0,0,0,0
+Mock_Match_6,1,32,Lakshya Sen,Shi Yuqi,15,8,B,平抽,39,None,0,0,0,0
+Mock_Match_6,1,33,Lee Zii Jia,Shi Yuqi,19,7,B,失误,59,None,0,0,0,0
+Mock_Match_6,1,34,Axelsen,Antonsen,15,12,B,平抽,58,None,0,0,0,0
+Mock_Match_6,1,35,Kodai,Shi Yuqi,16,2,B,吊球,69,None,0,0,0,0
+Mock_Match_6,1,36,Lee Zii Jia,Antonsen,16,12,A,杀球,57,A,0,0,0,0
+Mock_Match_6,1,37,Lakshya Sen,Ginting,5,4,A,挑球,45,B,0,0,0,0
+Mock_Match_6,1,38,Axelsen,Lakshya Sen,11,20,A,杀球,53,A,0,0,0,0
+Mock_Match_6,1,39,Shi Yuqi,Ginting,12,4,B,平抽,93,None,0,0,0,0
+Mock_Match_6,1,40,Antonsen,Christie,4,8,A,平抽,90,None,0,0,0,0
+Mock_Match_7,1,1,Ginting,Kunlavut,12,14,B,网前球,85,None,0,0,0,0
+Mock_Match_7,1,2,Antonsen,Kodai,8,18,B,吊球,30,None,0,0,0,0
+Mock_Match_7,1,3,Ginting,Momota,13,5,B,失误,59,None,0,0,0,0
+Mock_Match_7,1,4,Momota,Christie,6,4,B,吊球,66,None,0,0,0,0
+Mock_Match_7,1,5,Kunlavut,Lee Zii Jia,9,12,B,失误,65,None,0,0,0,0
+Mock_Match_7,1,6,Lee Zii Jia,Kunlavut,8,0,B,失误,85,None,0,0,0,0
+Mock_Match_7,1,7,Kodai,Shi Yuqi,3,6,A,杀球,62,A,0,0,0,0
+Mock_Match_7,1,8,Shi Yuqi,Momota,20,6,A,失误,76,None,0,0,0,0
+Mock_Match_7,1,9,Axelsen,Kunlavut,21,2,B,挑球,48,A,0,0,0,0
+Mock_Match_7,1,10,Christie,Kunlavut,10,20,A,失误,71,None,0,0,0,0
+Mock_Match_7,1,11,Shi Yuqi,Axelsen,7,13,A,杀球,66,A,0,0,0,0
+Mock_Match_7,1,12,Christie,Axelsen,16,5,A,杀球,34,None,0,0,0,0
+Mock_Match_7,1,13,Christie,Ginting,2,6,B,失误,89,None,0,0,0,0
+Mock_Match_7,1,14,Kodai,Kunlavut,21,14,B,网前球,30,None,0,0,0,0
+Mock_Match_7,1,15,Lee Zii Jia,Antonsen,15,15,B,杀球,35,None,0,0,0,0
+Mock_Match_7,1,16,Shi Yuqi,Kunlavut,16,18,B,网前球,64,None,0,0,0,0
+Mock_Match_7,1,17,Kodai,Momota,3,1,B,杀球,54,None,0,0,0,0
+Mock_Match_7,1,18,Kodai,Kunlavut,0,3,B,挑球,94,A,0,0,0,0
+Mock_Match_7,1,19,Antonsen,Lakshya Sen,10,1,B,挑球,64,A,0,0,0,0
+Mock_Match_7,1,20,Christie,Lee Zii Jia,21,20,A,失误,52,None,0,0,0,0
+Mock_Match_7,1,21,Shi Yuqi,Kunlavut,20,6,B,失误,92,None,0,0,0,0
+Mock_Match_7,1,22,Ginting,Momota,16,11,B,杀球,74,None,0,0,0,0
+Mock_Match_7,1,23,Shi Yuqi,Christie,14,21,B,网前球,62,None,0,0,0,0
+Mock_Match_7,1,24,Shi Yuqi,Kodai,2,12,A,平抽,74,None,0,0,0,0
+Mock_Match_7,1,25,Shi Yuqi,Kodai,20,6,B,平抽,47,None,0,0,0,0
+Mock_Match_7,1,26,Christie,Lee Zii Jia,0,6,A,吊球,35,None,0,0,0,0
+Mock_Match_7,1,27,Lee Zii Jia,Axelsen,17,2,A,失误,67,None,0,0,0,0
+Mock_Match_7,1,28,Christie,Lakshya Sen,17,12,A,平抽,51,None,0,0,0,0
+Mock_Match_7,1,29,Kunlavut,Kodai,5,12,B,杀球,67,B,0,0,0,0
+Mock_Match_7,1,30,Antonsen,Lee Zii Jia,18,10,B,网前球,89,None,0,0,0,0
+Mock_Match_7,1,31,Axelsen,Shi Yuqi,16,7,A,杀球,38,A,0,0,0,0
+Mock_Match_7,1,32,Kodai,Lee Zii Jia,12,3,A,失误,90,None,0,0,0,0
+Mock_Match_7,1,33,Antonsen,Lakshya Sen,5,6,B,失误,44,None,0,0,0,0
+Mock_Match_7,1,34,Lakshya Sen,Antonsen,5,15,B,吊球,60,None,0,0,0,0
+Mock_Match_7,1,35,Antonsen,Kodai,1,14,A,杀球,85,None,0,0,0,0
+Mock_Match_7,1,36,Shi Yuqi,Christie,3,18,B,杀球,31,None,0,0,0,0
+Mock_Match_7,1,37,Christie,Kunlavut,9,10,B,挑球,38,A,0,0,0,0
+Mock_Match_7,1,38,Axelsen,Momota,7,7,B,挑球,80,A,0,0,0,0
+Mock_Match_7,1,39,Kunlavut,Momota,6,11,A,失误,82,None,0,0,0,0
+Mock_Match_7,1,40,Antonsen,Shi Yuqi,11,6,A,吊球,54,None,0,0,0,0
+Mock_Match_8,1,1,Kodai,Lee Zii Jia,20,9,A,平抽,77,None,0,0,0,0
+Mock_Match_8,1,2,Kodai,Momota,9,14,A,平抽,75,None,0,0,0,0
+Mock_Match_8,1,3,Axelsen,Kunlavut,10,12,B,杀球,49,None,0,0,0,0
+Mock_Match_8,1,4,Christie,Momota,14,8,B,失误,47,None,0,0,0,0
+Mock_Match_8,1,5,Kodai,Momota,0,17,A,网前球,57,None,0,0,0,0
+Mock_Match_8,1,6,Kodai,Lakshya Sen,18,12,B,杀球,64,None,0,0,0,0
+Mock_Match_8,1,7,Christie,Antonsen,5,9,B,失误,76,None,0,0,0,0
+Mock_Match_8,1,8,Antonsen,Shi Yuqi,3,1,B,杀球,38,B,0,0,0,0
+Mock_Match_8,1,9,Momota,Axelsen,3,15,A,失误,81,None,0,0,0,0
+Mock_Match_8,1,10,Axelsen,Kunlavut,15,17,B,失误,36,None,0,0,0,0
+Mock_Match_8,1,11,Lee Zii Jia,Antonsen,10,20,A,杀球,50,A,0,0,0,0
+Mock_Match_8,1,12,Axelsen,Ginting,11,7,A,网前球,30,None,0,0,0,0
+Mock_Match_8,1,13,Shi Yuqi,Lee Zii Jia,15,8,A,网前球,56,None,0,0,0,0
+Mock_Match_8,1,14,Lakshya Sen,Ginting,15,8,B,杀球,45,B,0,0,0,0
+Mock_Match_8,1,15,Shi Yuqi,Ginting,11,14,B,杀球,81,B,0,0,0,0
+Mock_Match_8,1,16,Kunlavut,Kodai,11,17,B,网前球,35,None,0,0,0,0
+Mock_Match_8,1,17,Momota,Ginting,2,17,A,挑球,54,B,0,0,0,0
+Mock_Match_8,1,18,Axelsen,Ginting,12,20,B,杀球,30,B,0,0,0,0
+Mock_Match_8,1,19,Kodai,Lee Zii Jia,3,8,B,杀球,84,B,0,0,0,0
+Mock_Match_8,1,20,Kunlavut,Shi Yuqi,19,9,A,挑球,53,B,0,0,0,0
+Mock_Match_8,1,21,Axelsen,Kodai,17,17,B,杀球,55,B,0,0,0,0
+Mock_Match_8,1,22,Kunlavut,Kodai,17,13,B,吊球,91,None,0,0,0,0
+Mock_Match_8,1,23,Shi Yuqi,Lee Zii Jia,16,0,A,杀球,74,A,0,0,0,0
+Mock_Match_8,1,24,Ginting,Antonsen,12,21,B,杀球,30,None,0,0,0,0
+Mock_Match_8,1,25,Ginting,Christie,13,15,B,失误,64,None,0,0,0,0
+Mock_Match_8,1,26,Momota,Shi Yuqi,18,20,A,网前球,65,None,0,0,0,0
+Mock_Match_8,1,27,Lee Zii Jia,Kunlavut,5,15,B,失误,74,None,0,0,0,0
+Mock_Match_8,1,28,Christie,Kunlavut,11,0,B,失误,54,None,0,0,0,0
+Mock_Match_8,1,29,Kodai,Axelsen,9,4,A,杀球,71,A,0,0,0,0
+Mock_Match_8,1,30,Lee Zii Jia,Axelsen,1,18,A,杀球,62,A,0,0,0,0
+Mock_Match_8,1,31,Axelsen,Kunlavut,14,7,B,杀球,56,None,0,0,0,0
+Mock_Match_8,1,32,Momota,Kunlavut,2,1,B,挑球,90,A,0,0,0,0
+Mock_Match_8,1,33,Axelsen,Kodai,10,21,A,杀球,36,A,0,0,0,0
+Mock_Match_8,1,34,Momota,Shi Yuqi,4,11,A,网前球,91,None,0,0,0,0
+Mock_Match_8,1,35,Ginting,Lakshya Sen,20,5,A,平抽,33,None,0,0,0,0
+Mock_Match_8,1,36,Momota,Antonsen,1,10,B,平抽,64,None,0,0,0,0
+Mock_Match_8,1,37,Axelsen,Momota,7,1,B,失误,57,None,0,0,0,0
+Mock_Match_8,1,38,Kunlavut,Axelsen,5,21,B,杀球,49,B,0,0,0,0
+Mock_Match_8,1,39,Kunlavut,Kodai,3,12,A,网前球,78,None,0,0,0,0
+Mock_Match_8,1,40,Axelsen,Ginting,15,0,B,平抽,86,None,0,0,0,0
+Mock_Match_9,1,1,Shi Yuqi,Ginting,11,12,B,网前球,69,None,0,0,0,0
+Mock_Match_9,1,2,Antonsen,Christie,4,17,B,杀球,36,None,0,0,0,0
+Mock_Match_9,1,3,Momota,Axelsen,10,20,B,平抽,40,None,0,0,0,0
+Mock_Match_9,1,4,Christie,Antonsen,2,1,B,杀球,68,None,0,0,0,0
+Mock_Match_9,1,5,Ginting,Antonsen,11,19,B,失误,65,None,0,0,0,0
+Mock_Match_9,1,6,Shi Yuqi,Antonsen,11,6,B,失误,77,None,0,0,0,0
+Mock_Match_9,1,7,Ginting,Antonsen,21,18,B,网前球,54,None,0,0,0,0
+Mock_Match_9,1,8,Axelsen,Christie,2,4,B,网前球,48,None,0,0,0,0
+Mock_Match_9,1,9,Momota,Kodai,4,0,B,网前球,37,None,0,0,0,0
+Mock_Match_9,1,10,Christie,Momota,8,12,A,网前球,80,None,0,0,0,0
+Mock_Match_9,1,11,Lee Zii Jia,Lakshya Sen,16,4,B,失误,58,None,0,0,0,0
+Mock_Match_9,1,12,Kodai,Shi Yuqi,20,8,A,吊球,90,None,0,0,0,0
+Mock_Match_9,1,13,Kodai,Momota,18,21,A,杀球,41,A,0,0,0,0
+Mock_Match_9,1,14,Ginting,Kodai,3,7,B,失误,32,None,0,0,0,0
+Mock_Match_9,1,15,Axelsen,Momota,2,14,B,失误,35,None,0,0,0,0
+Mock_Match_9,1,16,Antonsen,Kodai,16,10,A,杀球,66,None,0,0,0,0
+Mock_Match_9,1,17,Momota,Ginting,17,6,B,失误,61,None,0,0,0,0
+Mock_Match_9,1,18,Shi Yuqi,Ginting,10,10,A,失误,85,None,0,0,0,0
+Mock_Match_9,1,19,Axelsen,Antonsen,10,20,B,失误,58,None,0,0,0,0
+Mock_Match_9,1,20,Axelsen,Shi Yuqi,3,19,B,吊球,53,None,0,0,0,0
+Mock_Match_9,1,21,Lee Zii Jia,Axelsen,7,13,A,失误,30,None,0,0,0,0
+Mock_Match_9,1,22,Momota,Axelsen,9,13,A,失误,65,None,0,0,0,0
+Mock_Match_9,1,23,Antonsen,Lee Zii Jia,17,21,A,失误,45,None,0,0,0,0
+Mock_Match_9,1,24,Axelsen,Christie,2,7,B,吊球,62,None,0,0,0,0
+Mock_Match_9,1,25,Kodai,Ginting,5,19,A,网前球,86,None,0,0,0,0
+Mock_Match_9,1,26,Kunlavut,Antonsen,4,14,B,杀球,60,None,0,0,0,0
+Mock_Match_9,1,27,Ginting,Antonsen,0,18,B,网前球,94,None,0,0,0,0
+Mock_Match_9,1,28,Lee Zii Jia,Axelsen,16,14,A,失误,52,None,0,0,0,0
+Mock_Match_9,1,29,Lee Zii Jia,Momota,11,21,B,失误,36,None,0,0,0,0
+Mock_Match_9,1,30,Lee Zii Jia,Christie,15,15,B,平抽,55,None,0,0,0,0
+Mock_Match_9,1,31,Christie,Momota,13,19,B,挑球,48,A,0,0,0,0
+Mock_Match_9,1,32,Shi Yuqi,Kunlavut,13,20,B,挑球,36,A,0,0,0,0
+Mock_Match_9,1,33,Momota,Kunlavut,14,3,B,网前球,85,None,0,0,0,0
+Mock_Match_9,1,34,Kodai,Lee Zii Jia,5,11,A,吊球,72,None,0,0,0,0
+Mock_Match_9,1,35,Ginting,Lee Zii Jia,17,19,A,网前球,84,None,0,0,0,0
+Mock_Match_9,1,36,Ginting,Lakshya Sen,5,18,B,失误,72,None,0,0,0,0
+Mock_Match_9,1,37,Lakshya Sen,Momota,11,18,A,杀球,76,None,0,0,0,0
+Mock_Match_9,1,38,Kodai,Shi Yuqi,3,2,B,平抽,71,None,0,0,0,0
+Mock_Match_9,1,39,Lee Zii Jia,Shi Yuqi,20,8,B,杀球,54,B,0,0,0,0
+Mock_Match_9,1,40,Lee Zii Jia,Axelsen,13,2,B,平抽,71,None,0,0,0,0
+Mock_Match_10,1,1,Antonsen,Ginting,8,18,B,平抽,69,None,0,0,0,0
+Mock_Match_10,1,2,Lakshya Sen,Antonsen,5,10,B,杀球,76,None,0,0,0,0
+Mock_Match_10,1,3,Kodai,Shi Yuqi,15,0,A,杀球,33,A,0,0,0,0
+Mock_Match_10,1,4,Antonsen,Lee Zii Jia,5,16,B,杀球,60,B,0,0,0,0
+Mock_Match_10,1,5,Momota,Christie,11,19,B,吊球,89,None,0,0,0,0
+Mock_Match_10,1,6,Lee Zii Jia,Lakshya Sen,14,3,B,挑球,90,A,0,0,0,0
+Mock_Match_10,1,7,Lee Zii Jia,Shi Yuqi,16,9,B,吊球,85,None,0,0,0,0
+Mock_Match_10,1,8,Momota,Shi Yuqi,21,7,B,平抽,88,None,0,0,0,0
+Mock_Match_10,1,9,Momota,Antonsen,17,18,B,失误,61,None,0,0,0,0
+Mock_Match_10,1,10,Lakshya Sen,Shi Yuqi,15,11,A,挑球,72,B,0,0,0,0
+Mock_Match_10,1,11,Lakshya Sen,Axelsen,12,3,A,失误,87,None,0,0,0,0
+Mock_Match_10,1,12,Lakshya Sen,Kunlavut,12,14,B,杀球,60,None,0,0,0,0
+Mock_Match_10,1,13,Axelsen,Lee Zii Jia,8,3,A,失误,48,None,0,0,0,0
+Mock_Match_10,1,14,Axelsen,Christie,8,12,A,失误,88,None,0,0,0,0
+Mock_Match_10,1,15,Lakshya Sen,Lee Zii Jia,1,6,A,失误,67,None,0,0,0,0
+Mock_Match_10,1,16,Shi Yuqi,Kodai,1,12,A,杀球,44,A,0,0,0,0
+Mock_Match_10,1,17,Antonsen,Momota,12,2,B,挑球,61,A,0,0,0,0
+Mock_Match_10,1,18,Christie,Ginting,10,15,B,失误,63,None,0,0,0,0
+Mock_Match_10,1,19,Shi Yuqi,Lakshya Sen,0,19,A,网前球,48,None,0,0,0,0
+Mock_Match_10,1,20,Ginting,Christie,10,6,B,吊球,76,None,0,0,0,0
+Mock_Match_10,1,21,Momota,Axelsen,5,6,A,失误,43,None,0,0,0,0
+Mock_Match_10,1,22,Lakshya Sen,Kodai,6,5,A,杀球,31,None,0,0,0,0
+Mock_Match_10,1,23,Ginting,Kunlavut,1,15,A,失误,37,None,0,0,0,0
+Mock_Match_10,1,24,Lee Zii Jia,Axelsen,7,3,B,网前球,89,None,0,0,0,0
+Mock_Match_10,1,25,Christie,Lakshya Sen,9,16,B,挑球,86,A,0,0,0,0
+Mock_Match_10,1,26,Shi Yuqi,Kunlavut,6,18,A,网前球,44,None,0,0,0,0
+Mock_Match_10,1,27,Shi Yuqi,Kodai,0,20,B,网前球,53,None,0,0,0,0
+Mock_Match_10,1,28,Ginting,Kodai,12,1,B,失误,59,None,0,0,0,0
+Mock_Match_10,1,29,Momota,Christie,6,4,B,杀球,93,None,0,0,0,0
+Mock_Match_10,1,30,Ginting,Christie,15,14,B,网前球,60,None,0,0,0,0
+Mock_Match_10,1,31,Lee Zii Jia,Shi Yuqi,4,9,B,失误,87,None,0,0,0,0
+Mock_Match_10,1,32,Kunlavut,Ginting,7,17,A,失误,63,None,0,0,0,0
+Mock_Match_10,1,33,Antonsen,Axelsen,20,10,A,网前球,63,None,0,0,0,0
+Mock_Match_10,1,34,Momota,Lee Zii Jia,4,17,B,失误,53,None,0,0,0,0
+Mock_Match_10,1,35,Axelsen,Kunlavut,3,8,A,失误,43,None,0,0,0,0
+Mock_Match_10,1,36,Lakshya Sen,Ginting,11,17,B,吊球,63,None,0,0,0,0
+Mock_Match_10,1,37,Kodai,Christie,11,8,B,平抽,64,None,0,0,0,0
+Mock_Match_10,1,38,Christie,Kunlavut,4,8,B,挑球,43,A,0,0,0,0
+Mock_Match_10,1,39,Kodai,Antonsen,4,0,A,失误,54,None,0,0,0,0
+Mock_Match_10,1,40,Ginting,Antonsen,18,11,B,杀球,45,None,0,0,0,0
+Mock_Match_11,1,1,Shi Yuqi,Christie,8,16,B,失误,39,None,0,0,0,0
+Mock_Match_11,1,2,Momota,Kunlavut,12,8,A,失误,48,None,0,0,0,0
+Mock_Match_11,1,3,Momota,Ginting,7,21,A,挑球,46,B,0,0,0,0
+Mock_Match_11,1,4,Kunlavut,Axelsen,8,8,A,杀球,54,None,0,0,0,0
+Mock_Match_11,1,5,Antonsen,Kodai,2,0,A,杀球,76,None,0,0,0,0
+Mock_Match_11,1,6,Kodai,Ginting,11,9,A,失误,45,None,0,0,0,0
+Mock_Match_11,1,7,Ginting,Lakshya Sen,11,6,A,失误,51,None,0,0,0,0
+Mock_Match_11,1,8,Lee Zii Jia,Christie,5,18,B,失误,60,None,0,0,0,0
+Mock_Match_11,1,9,Christie,Lakshya Sen,15,12,A,平抽,41,None,0,0,0,0
+Mock_Match_11,1,10,Kodai,Ginting,19,4,A,失误,56,None,0,0,0,0
+Mock_Match_11,1,11,Antonsen,Momota,14,3,A,失误,75,None,0,0,0,0
+Mock_Match_11,1,12,Ginting,Momota,16,19,B,杀球,40,None,0,0,0,0
+Mock_Match_11,1,13,Shi Yuqi,Lakshya Sen,2,3,B,失误,71,None,0,0,0,0
+Mock_Match_11,1,14,Kunlavut,Kodai,2,4,B,平抽,82,None,0,0,0,0
+Mock_Match_11,1,15,Shi Yuqi,Lakshya Sen,10,5,A,失误,30,None,0,0,0,0
+Mock_Match_11,1,16,Axelsen,Momota,9,2,B,失误,72,None,0,0,0,0
+Mock_Match_11,1,17,Christie,Ginting,13,16,B,网前球,90,None,0,0,0,0
+Mock_Match_11,1,18,Kunlavut,Lee Zii Jia,13,15,B,失误,33,None,0,0,0,0
+Mock_Match_11,1,19,Ginting,Kunlavut,2,6,A,失误,55,None,0,0,0,0
+Mock_Match_11,1,20,Kunlavut,Momota,13,21,B,挑球,46,A,0,0,0,0
+Mock_Match_11,1,21,Ginting,Kunlavut,13,3,B,挑球,34,A,0,0,0,0
+Mock_Match_11,1,22,Axelsen,Lakshya Sen,15,6,B,网前球,35,None,0,0,0,0
+Mock_Match_11,1,23,Axelsen,Antonsen,6,3,A,网前球,36,None,0,0,0,0
+Mock_Match_11,1,24,Lee Zii Jia,Christie,11,14,B,网前球,84,None,0,0,0,0
+Mock_Match_11,1,25,Ginting,Shi Yuqi,12,4,A,吊球,38,None,0,0,0,0
+Mock_Match_11,1,26,Kunlavut,Ginting,4,15,A,杀球,42,None,0,0,0,0
+Mock_Match_11,1,27,Kunlavut,Axelsen,18,12,B,失误,85,None,0,0,0,0
+Mock_Match_11,1,28,Axelsen,Christie,21,20,B,杀球,57,None,0,0,0,0
+Mock_Match_11,1,29,Christie,Kunlavut,20,7,A,平抽,78,None,0,0,0,0
+Mock_Match_11,1,30,Kunlavut,Momota,18,9,A,网前球,93,None,0,0,0,0
+Mock_Match_11,1,31,Lee Zii Jia,Ginting,18,16,B,吊球,43,None,0,0,0,0
+Mock_Match_11,1,32,Kunlavut,Momota,1,19,A,挑球,91,B,0,0,0,0
+Mock_Match_11,1,33,Kunlavut,Ginting,7,19,B,平抽,52,None,0,0,0,0
+Mock_Match_11,1,34,Kunlavut,Kodai,19,11,A,杀球,89,None,0,0,0,0
+Mock_Match_11,1,35,Lakshya Sen,Axelsen,11,18,A,网前球,32,None,0,0,0,0
+Mock_Match_11,1,36,Kunlavut,Kodai,12,2,A,失误,58,None,0,0,0,0
+Mock_Match_11,1,37,Momota,Lee Zii Jia,9,20,B,杀球,48,B,0,0,0,0
+Mock_Match_11,1,38,Ginting,Kodai,15,11,A,吊球,52,None,0,0,0,0
+Mock_Match_11,1,39,Axelsen,Shi Yuqi,20,12,A,网前球,38,None,0,0,0,0
+Mock_Match_11,1,40,Axelsen,Shi Yuqi,6,10,A,杀球,93,A,0,0,0,0
+Mock_Match_12,1,1,Antonsen,Kunlavut,6,19,A,网前球,52,None,0,0,0,0
+Mock_Match_12,1,2,Lee Zii Jia,Shi Yuqi,8,14,B,失误,30,None,0,0,0,0
+Mock_Match_12,1,3,Shi Yuqi,Ginting,21,12,A,失误,74,None,0,0,0,0
+Mock_Match_12,1,4,Shi Yuqi,Lee Zii Jia,18,14,A,网前球,33,None,0,0,0,0
+Mock_Match_12,1,5,Shi Yuqi,Kunlavut,18,13,B,杀球,46,None,0,0,0,0
+Mock_Match_12,1,6,Shi Yuqi,Axelsen,10,2,A,失误,62,None,0,0,0,0
+Mock_Match_12,1,7,Lee Zii Jia,Christie,20,3,B,失误,44,None,0,0,0,0
+Mock_Match_12,1,8,Axelsen,Lee Zii Jia,16,4,A,失误,43,None,0,0,0,0
+Mock_Match_12,1,9,Momota,Antonsen,0,13,B,杀球,86,None,0,0,0,0
+Mock_Match_12,1,10,Axelsen,Kunlavut,5,2,B,失误,90,None,0,0,0,0
+Mock_Match_12,1,11,Lakshya Sen,Antonsen,7,15,B,失误,89,None,0,0,0,0
+Mock_Match_12,1,12,Lee Zii Jia,Ginting,10,1,B,网前球,37,None,0,0,0,0
+Mock_Match_12,1,13,Shi Yuqi,Kodai,18,4,A,吊球,44,None,0,0,0,0
+Mock_Match_12,1,14,Kunlavut,Axelsen,2,4,B,杀球,81,B,0,0,0,0
+Mock_Match_12,1,15,Shi Yuqi,Axelsen,1,14,B,失误,68,None,0,0,0,0
+Mock_Match_12,1,16,Lakshya Sen,Christie,9,12,B,杀球,65,None,0,0,0,0
+Mock_Match_12,1,17,Kunlavut,Kodai,19,1,B,失误,90,None,0,0,0,0
+Mock_Match_12,1,18,Shi Yuqi,Kodai,3,5,A,吊球,73,None,0,0,0,0
+Mock_Match_12,1,19,Antonsen,Christie,10,7,A,网前球,57,None,0,0,0,0
+Mock_Match_12,1,20,Kunlavut,Axelsen,17,10,A,挑球,79,B,0,0,0,0
+Mock_Match_12,1,21,Kodai,Axelsen,15,9,B,网前球,88,None,0,0,0,0
+Mock_Match_12,1,22,Axelsen,Kunlavut,13,19,B,网前球,55,None,0,0,0,0
+Mock_Match_12,1,23,Lee Zii Jia,Kunlavut,3,16,A,杀球,45,A,0,0,0,0
+Mock_Match_12,1,24,Axelsen,Christie,18,21,A,杀球,72,A,0,0,0,0
+Mock_Match_12,1,25,Kodai,Axelsen,3,2,B,平抽,93,None,0,0,0,0
+Mock_Match_12,1,26,Shi Yuqi,Lee Zii Jia,9,5,A,失误,51,None,0,0,0,0
+Mock_Match_12,1,27,Lakshya Sen,Momota,18,2,A,挑球,49,B,0,0,0,0
+Mock_Match_12,1,28,Kodai,Kunlavut,7,13,A,失误,39,None,0,0,0,0
+Mock_Match_12,1,29,Kunlavut,Antonsen,14,0,A,挑球,72,B,0,0,0,0
+Mock_Match_12,1,30,Lee Zii Jia,Antonsen,19,20,A,失误,74,None,0,0,0,0
+Mock_Match_12,1,31,Lee Zii Jia,Antonsen,8,14,A,杀球,68,A,0,0,0,0
+Mock_Match_12,1,32,Ginting,Axelsen,1,6,B,杀球,81,B,0,0,0,0
+Mock_Match_12,1,33,Shi Yuqi,Axelsen,4,13,A,失误,68,None,0,0,0,0
+Mock_Match_12,1,34,Lee Zii Jia,Kodai,17,20,B,失误,46,None,0,0,0,0
+Mock_Match_12,1,35,Lee Zii Jia,Lakshya Sen,12,7,B,挑球,52,A,0,0,0,0
+Mock_Match_12,1,36,Shi Yuqi,Lakshya Sen,21,14,A,平抽,73,None,0,0,0,0
+Mock_Match_12,1,37,Lee Zii Jia,Lakshya Sen,17,20,B,挑球,41,A,0,0,0,0
+Mock_Match_12,1,38,Momota,Kodai,19,18,A,挑球,52,B,0,0,0,0
+Mock_Match_12,1,39,Lakshya Sen,Axelsen,1,1,A,挑球,55,B,0,0,0,0
+Mock_Match_12,1,40,Christie,Kodai,3,17,B,杀球,54,B,0,0,0,0
+Mock_Match_13,1,1,Axelsen,Ginting,14,4,A,失误,72,None,0,0,0,0
+Mock_Match_13,1,2,Kodai,Ginting,19,14,B,平抽,36,None,0,0,0,0
+Mock_Match_13,1,3,Shi Yuqi,Momota,16,21,B,挑球,54,A,0,0,0,0
+Mock_Match_13,1,4,Lee Zii Jia,Antonsen,19,14,B,杀球,61,None,0,0,0,0
+Mock_Match_13,1,5,Shi Yuqi,Lakshya Sen,15,15,B,网前球,49,None,0,0,0,0
+Mock_Match_13,1,6,Shi Yuqi,Christie,13,15,B,网前球,89,None,0,0,0,0
+Mock_Match_13,1,7,Antonsen,Shi Yuqi,17,7,A,失误,61,None,0,0,0,0
+Mock_Match_13,1,8,Kodai,Antonsen,6,0,A,杀球,62,A,0,0,0,0
+Mock_Match_13,1,9,Kodai,Antonsen,15,9,B,网前球,65,None,0,0,0,0
+Mock_Match_13,1,10,Shi Yuqi,Lee Zii Jia,13,1,A,杀球,50,A,0,0,0,0
+Mock_Match_13,1,11,Lee Zii Jia,Antonsen,18,7,A,平抽,42,None,0,0,0,0
+Mock_Match_13,1,12,Kunlavut,Kodai,10,17,A,杀球,59,None,0,0,0,0
+Mock_Match_13,1,13,Kunlavut,Shi Yuqi,7,9,A,挑球,57,B,0,0,0,0
+Mock_Match_13,1,14,Axelsen,Christie,19,0,B,吊球,33,None,0,0,0,0
+Mock_Match_13,1,15,Antonsen,Momota,5,5,B,杀球,87,None,0,0,0,0
+Mock_Match_13,1,16,Kodai,Ginting,10,14,B,网前球,94,None,0,0,0,0
+Mock_Match_13,1,17,Lakshya Sen,Kodai,4,18,A,挑球,80,B,0,0,0,0
+Mock_Match_13,1,18,Lakshya Sen,Antonsen,9,1,A,网前球,44,None,0,0,0,0
+Mock_Match_13,1,19,Shi Yuqi,Antonsen,7,1,A,杀球,76,A,0,0,0,0
+Mock_Match_13,1,20,Antonsen,Lee Zii Jia,17,11,B,失误,89,None,0,0,0,0
